@@ -8,3 +8,9 @@ function forLoop(array) {
   }
   return array;
 }
+
+function whileLoop(num) {
+  let count = 0;
+  while (count !== num) {
+    
+  }
